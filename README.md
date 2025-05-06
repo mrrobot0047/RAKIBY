@@ -85,20 +85,11 @@ For a detailed installation and usage guide, watch this video:
 
 [Insert a YouTube or video platform link]
 
-## Contributing
-
-We welcome contributions from the community! If you'd like to contribute to the development of Rakiby OS, follow these steps:
-
-1. **Fork the Repository**: Click on the "Fork" button at the top of this page to create a copy of the repository in your GitHub account.
-
-2. **Clone the Repository**: Clone your fork to your local machine using the following command:
-   ```bash
-   git clone https://github.com/mrrobot0047/RAKIBY.git
 ## License
 Rakiby OS is open-source and licensed under the MIT License. See the LICENSE file for more details.
 
 ## Contact
-For more information or inquiries, you can contact Robera Kassaye at roberakassaye@gmail.com.
+For more information or inquiries, you can contact Robera Kassaye at roberakassaye@gmail.com and use [Telegram](https://t.me/+8DHgRIBVW9wwZGQ0) .
 
 ## Special Thanks
 Special thanks to all contributors, testers, and community members who help improve Rakiby OS. If you encounter any bugs or issues, feel free to open an issue on the GitHub Issues page.
