@@ -91,5 +91,3 @@ Rakiby OS is open-source and licensed under the MIT License. See the LICENSE fil
 ## Contact
 For more information or inquiries, you can contact Robera Kassaye at roberakassaye@gmail.com and use [Telegram](https://t.me/rakibyos) .
 
-## Special Thanks
-Special thanks to all contributors, testers, and community members who help improve Rakiby OS. If you encounter any bugs or issues, feel free to open an issue on the GitHub Issues page.
