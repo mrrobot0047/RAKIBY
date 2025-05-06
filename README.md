@@ -36,7 +36,7 @@ Rakiby OS provides compatibility for running **Windows `.exe` files** using **Wi
 Rakiby OS supports **Amharic** and many other languages. You can switch to any language without installing external software.
 
 ### Privacy & Security
-Rakiby OS uses **Brave** and **Chromium** as its default browsers, ensuring a privacy-focused web browsing experience. The system also includes privacy-centric features to safeguard your data.
+Rakiby OS uses **Brave**  as its default browsers, ensuring a privacy-focused web browsing experience. The system also includes privacy-centric features to safeguard your data.
 
 ## Installation
 
