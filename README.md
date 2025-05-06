@@ -94,3 +94,11 @@ We welcome contributions from the community! If you'd like to contribute to the 
 2. **Clone the Repository**: Clone your fork to your local machine using the following command:
    ```bash
    git clone https://github.com/mrrobot0047/RAKIBY.git
+## License
+Rakiby OS is open-source and licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+For more information or inquiries, you can contact Robera Kassaye at roberakassaye@gmail.com.
+
+## Special Thanks
+Special thanks to all contributors, testers, and community members who help improve Rakiby OS. If you encounter any bugs or issues, feel free to open an issue on the GitHub Issues page.
